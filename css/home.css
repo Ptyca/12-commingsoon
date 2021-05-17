@@ -13,3 +13,12 @@
 @import './components/progress-bar.css';
 
 /* CUSTOM STYLE BELOW THIS COMMENT */
+
+.bg-primary {
+    background-color: var(--color-primary);
+}
+
+p {
+    --dydis: 20px;
+    font-size: var(--);
+}
